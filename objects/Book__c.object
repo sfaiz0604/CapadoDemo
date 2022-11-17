@@ -158,6 +158,10 @@
         <label>Book Name</label>
         <type>Text</type>
     </nameField>
+    <nameField>
+        <label>Author Name</label>
+        <type>Text</type>
+    </nameField>
     <pluralLabel>Books</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
